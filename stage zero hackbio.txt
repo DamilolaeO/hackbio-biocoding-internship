@@ -1,0 +1,11 @@
+
+    "Name": "Damilola",
+    "Slack Username": "@Dami O",
+    "Email": "ogungbemidamilolae@gmail.com",
+    "Hobby": "writing",
+    "Country": "United Kingdom",
+    "Discipline": "Biotechnology",
+    "Preferred Programming Language": "Python"
+}
+
+
